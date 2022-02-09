@@ -1,6 +1,7 @@
 ## Phil Bligh
+After 14 years filming and editing news stories for the BBC all over the UK and abroad, I started to feel the need to challenge myself. I discovered coding and found an immediate affinity for it, enjoying the problem-solving and puzzle-like logic. I took the bold moove of leaving a dream job, guaranteed for life (with a pretty decent government pension, I might add) to throw myself into the world of development, learning all I could from every source available. 
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am ridiculously proud to say I am now a Junior Full Stack Web Developer, recently graduated from the world-renowned Makers Academy 16-week developer course. I am well-versed in Ruby, Rails, Sinatra, Node.js, Express, HTML, CSS, JavaScript, jQuery, Bootstrap, PostgreSQL, I am a certified Scrum Master, and I'm ready for whatever you want to throw at me.   
 
 ## Projects
 
@@ -11,10 +12,10 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**BBC** (2007-2022)  
+Senior Camera Journalist
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+Working with people from all over the world, filming and editing stories for the World Service in the UK and abroad. 
 
 **Company Name** (start-date to end-date)  
 _Your job title_
@@ -53,7 +54,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Jan - May 2022)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -62,16 +63,19 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### London Metropolitan University
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- BA, Film and Broadcast Production Studies
+- 2:1 obtained
+- Made several projects over the 3 years including an award-winning short film I wrote and directed which I'm incredibly proud of. 
 
-#### Any other qualifications
+#### Other Qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
+Certified Scrum Master
+
+Professional Scrum Master level 1 (PSM1) certificate awarded on completion of a week-long course and a VERY intense exam. 
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- I write novels that no one wants to publish - 3 so far, and I have a ton more in me. 
+- I speak fluent Spanish and very, very poor Japanese. 
