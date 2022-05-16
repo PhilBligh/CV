@@ -1,13 +1,13 @@
 ## Phil Bligh
-After 14 years filming and editing news stories for the BBC all over the UK and abroad, I started to feel the need to challenge myself. I discovered coding and found an immediate affinity for it, enjoying the problem-solving and puzzle-like logic. I took the bold moove of leaving a dream job, guaranteed for life (with a pretty decent government pension, I might add) to throw myself into the world of development, learning all I could from every source available. 
+After 14 years filming and editing news stories for the BBC all over the UK and abroad, I started to feel the need to challenge myself. I discovered coding and found an immediate affinity for it, enjoying the problem-solving and puzzle-like logic. I took the bold moove of leaving a dream job to throw myself into the world of development, learning all I could from every source available. 
 
-I am ridiculously proud to say I am now a Junior Full Stack Web Developer, recently graduated from the world-renowned Makers Academy 16-week developer course. I am well-versed in Ruby, Rails, Sinatra, Node.js, Express, HTML, CSS, JavaScript, jQuery, Bootstrap, PostgreSQL, I am a certified Scrum Master, and I'm ready for whatever you want to throw at me.   
+I am ridiculously proud to say I am now a Junior Full Stack Web Developer, recently graduated from the world-renowned Makers Academy 16-week developer course. I am well-versed in Ruby, Rails, Sinatra, Node.js, HTML, CSS, JavaScript, Express, React, and several testing libraries. I am also a certified Scrum Master, and I'm ready for whatever you want to throw at me.   
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
+| **Tom's Escape**            | An interactive SPA webapp in the style of a 2D escape-room game. | React, Jest, etc. |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
 ## Work Experience
@@ -16,11 +16,6 @@ I am ridiculously proud to say I am now a Junior Full Stack Web Developer, recen
 Senior Camera Journalist
 
 Working with people from all over the world, filming and editing stories for the World Service in the UK and abroad. 
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
 
 ## Skills
 
