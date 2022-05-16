@@ -22,8 +22,11 @@ I am ridiculously proud to say I am now a Junior Full Stack Web Developer, recen
 
 **BBC** (2007-2022)  
 Senior Camera Journalist
-
-Working with people from all over the world, filming and editing stories for the World Service in the UK and abroad. 
+- Working with 42 foreign-language services to deliver world-class and award-winning news to people around the globe.
+- Collaborating with different teams every day to research, plan, and film news stories in the UK and abroad.
+- Editing time-critical news stories and features to a high standard in a pressurised environment.  
+- Reporting live on location from all over the world, coving globally significant events and breaking news.
+- Working closely every day with members of the public, politicians, celebrities and heads of state.
 
 ## Skills
 
@@ -72,9 +75,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Other Qualifications
 
-Certified Scrum Master
+- Certified Scrum Master
 
-Professional Scrum Master level 1 (PSM1) certificate awarded on completion of a week-long course and a VERY intense exam. 
+- Professional Scrum Master level 1 (PSM1) certificate awarded on completion of a week-long course and a VERY intense exam. 
 
 ## Hobbies
 
