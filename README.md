@@ -3,11 +3,18 @@ After 14 years filming and editing news stories for the BBC all over the UK and 
 
 I am ridiculously proud to say I am now a Junior Full Stack Web Developer, recently graduated from the world-renowned Makers Academy 16-week developer course. I am well-versed in Ruby, Rails, Sinatra, Node.js, HTML, CSS, JavaScript, Express, React, and several testing libraries. I am also a certified Scrum Master, and I'm ready for whatever you want to throw at me.   
 
+## Tech Skills
+- Ruby, Rspec, Sinatra, Capybara
+- JavaScript, Jest, Node.js, Express, React
+- HTML, CSS, Handlebars
+- SQL, Postgres, MongoDB, Mongoose, Active Record
+- Command Line, Git, GitHub 
+
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Tom's Escape**            | An interactive SPA webapp in the style of a 2D escape-room game. | React, Mongo DB, Express JS, Node.js, Jest |
+| **Tom's Escape**            | An interactive 2D escape-room game presented as an SPA webapp. | React, Mongo DB, Express JS, Node.js, Jest |
 | **Acebook** | Facebook clone | Javascript, Express JS, Mongo DB, Node.js |
 | **Makers B&B** | Air B&B clone | Ruby, Sinatra, Active Record |
 
@@ -51,13 +58,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ## Education
 
 #### Makers Academy (Jan - May 2022)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- 16-week intensive software development course
+- Heavy focus on TDD
+- Daily pair programming with an emphasis on self and peer-led learning
+- Working within Agile and Scrum methodologies
+- Volunteered as a mentor to new students
 
 #### London Metropolitan University
 
