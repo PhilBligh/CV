@@ -7,8 +7,9 @@ I am ridiculously proud to say I am now a Junior Full Stack Web Developer, recen
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Tom's Escape**            | An interactive SPA webapp in the style of a 2D escape-room game. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **Tom's Escape**            | An interactive SPA webapp in the style of a 2D escape-room game. | React, Mongo DB, Express JS, Node.js, Jest |
+| **Acebook** | Facebook clone | Javascript, Express JS, Mongo DB, Node.js |
+| **Makers B&B** | Air B&B clone | Ruby, Sinatra, Active Record |
 
 ## Work Experience
 
